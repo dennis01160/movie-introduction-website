@@ -9,3 +9,6 @@
 
 
 ![snapshot2](https://github.com/dennis01160/movie-introduction-website/blob/main/website-snapshot2.jpg)
+
+
+![snapshot3](https://github.com/dennis01160/movie-introduction-website/blob/main/website-snapshot3.jpg)
